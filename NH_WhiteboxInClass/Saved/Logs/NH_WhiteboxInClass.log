@@ -568,3 +568,478 @@ LogInit: Object subsystem initialized
 [2019.05.04-19.15.25:990][617]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.238
 [2019.05.04-19.21.57:363][448]LogGeometryMode: Warning: Unable to find BrushMotelSign_2 Brush(s) in new BSP
 [2019.05.04-19.21.57:363][448]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.05.04-19.45.16:359][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-19.45.22:493][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-19.45.22:502][368]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/MannequinModel/scenes/NH_MannequinPosed.obj)
+[2019.05.04-19.45.22:513][368]LogFbx: Loading FBX Scene from ../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/MannequinModel/scenes/NH_MannequinPosed.obj
+[2019.05.04-19.45.22:608][368]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.04-19.45.24:346][368]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.04-19.45.24:383][368]LogLinker: Can't find file '/Game/Maps/NH_MannequinTexture'
+[2019.05.04-19.45.24:383][368]LogLinker: Can't find file '/Game/Maps/NH_MannequinTexture'
+[2019.05.04-19.45.25:113][368]LogTexture: Display: Building textures: NH_MannequinTexture (AutoDXT, 8192X8192)
+[2019.05.04-19.45.29:742][368]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2019.05.04-19.45.29:764][368]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.04-19.45.29:764][368]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.04-19.45.29:764][368]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.04-19.45.29:764][368]LogFbx: Warning: Triangulating static mesh polySurface29
+[2019.05.04-19.45.30:146][368]LogStaticMesh: Building static mesh NH_MannequinPosed...
+[2019.05.04-19.45.30:363][368]LogStaticMesh: Built static mesh [0.22s] /Game/Maps/NH_MannequinPosed.NH_MannequinPosed
+[2019.05.04-19.45.33:614][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-19.45.33:651][693]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NH_WBBlockWithGeo' took 0.026
+[2019.05.04-19.45.33:654][693]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/lambert2SG] ([1] browsable assets)...
+[2019.05.04-19.45.33:669][693]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Maps/lambert2SG.lambert2SG]
+[2019.05.04-19.45.33:669][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/lambert2SG]
+[2019.05.04-19.45.33:685][693]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/lambert2SG_Auto637E0CDB0489DC0B1D10F04B67AFF23D7.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/lambert2SG_Auto6.uasset'
+[2019.05.04-19.45.33:687][693]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/NH_MannequinPosed] ([1] browsable assets)...
+[2019.05.04-19.45.33:701][693]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/NH_MannequinPosed.NH_MannequinPosed]
+[2019.05.04-19.45.33:701][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/NH_MannequinPosed]
+[2019.05.04-19.45.33:745][693]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/NH_MannequinPosed_Auto67A9B2A764E27C0E91F4CDABCE7341C14.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/NH_MannequinPosed_Auto6.uasset'
+[2019.05.04-19.45.33:747][693]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/NH_MannequinTexture] ([1] browsable assets)...
+[2019.05.04-19.45.33:755][693]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/NH_MannequinTexture.NH_MannequinTexture]
+[2019.05.04-19.45.33:755][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/NH_MannequinTexture]
+[2019.05.04-19.45.35:923][693]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/NH_MannequinTexture_Auto63B25B3E94A876EB396906DBD12C0F8FF.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/NH_MannequinTexture_Auto6.uasset'
+[2019.05.04-19.45.35:926][693]LogFileHelpers: Auto-saving content packages took 2.273
+[2019.05.04-19.45.37:043][778]LogActorFactory: Actor Factory created NH_MannequinPosed
+[2019.05.04-19.45.37:586][832]LogActorFactory: Actor Factory created NH_MannequinPosed
+[2019.05.04-19.45.56:961][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mann)
+[2019.05.04-19.45.58:397][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NH_MannequinPosed)
+[2019.05.04-19.46.16:282][170]Cmd: DELETE
+[2019.05.04-19.46.16:282][170]Cmd: ACTOR DELETE
+[2019.05.04-19.46.16:308][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.04-19.46.16:334][170]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.05.04-19.46.19:622][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-19.46.27:518][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.04-19.46.27:524][538]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/OutOfClassVehicle/scenes/OutOfClassVehicle_NH.obj)
+[2019.05.04-19.46.27:534][538]LogFbx: Loading FBX Scene from ../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/OutOfClassVehicle/scenes/OutOfClassVehicle_NH.obj
+[2019.05.04-19.46.27:632][538]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.04-19.46.29:015][538]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.04-19.46.29:051][538]LogLinker: Can't find file '/Game/Maps/Seamless_002'
+[2019.05.04-19.46.29:051][538]LogLinker: Can't find file '/Game/Maps/Seamless_002'
+[2019.05.04-19.46.29:121][538]LogTexture: Display: Building textures: Seamless_002 (AutoDXT, 2048X2048)
+[2019.05.04-19.46.30:963][538]LogMaterial: Display: Missing cached shader map for material blinn1SG, compiling. 
+[2019.05.04-19.46.30:987][538]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.04-19.46.30:987][538]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.04-19.46.30:987][538]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.04-19.46.31:112][538]LogTexture: Display: Building textures: Seamless_002 (AutoDXT, 2048X2048)
+[2019.05.04-19.46.32:948][538]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2019.05.04-19.46.32:961][538]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.04-19.46.33:099][538]LogTexture: Display: Building textures: Seamless_002 (AutoDXT, 2048X2048)
+[2019.05.04-19.46.34:912][538]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.04-19.46.34:919][538]LogMaterial: Display: Missing cached shader map for material lambert4SG, compiling. 
+[2019.05.04-19.46.34:945][538]LogFbx: Warning: Triangulating static mesh polySurface7
+[2019.05.04-19.46.35:364][538]LogStaticMesh: Building static mesh OutOfClassVehicle_NH...
+[2019.05.04-19.46.35:579][538]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.04-19.46.35:579][538]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.04-19.46.35:579][538]LogStaticMesh: Built static mesh [0.22s] /Game/Maps/OutOfClassVehicle_NH.OutOfClassVehicle_NH
+[2019.05.04-19.46.37:476][738]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.04-19.46.39:795][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-19.46.39:954][996]LogActorFactory: Actor Factory created OutOfClassVehicle_NH
+[2019.05.04-19.46.40:421][ 42]LogActorFactory: Actor Factory created OutOfClassVehicle_NH
+[2019.05.04-19.47.16:037][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-19.47.30:111][678]Cmd: DELETE
+[2019.05.04-19.47.30:111][678]Cmd: ACTOR DELETE
+[2019.05.04-19.47.30:136][678]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.04-19.47.30:162][678]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.05.04-19.55.40:432][452]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/NH_WBBlockWithGeo_Auto7879D2FB048A12FAFD04180B3792AC25F.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/NH_WBBlockWithGeo_Auto7.umap'
+[2019.05.04-19.55.40:439][452]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NH_WBBlockWithGeo' took 1.279
+[2019.05.04-19.55.40:439][452]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.279
+[2019.05.04-19.55.40:446][452]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/OutOfClassVehicle_NH] ([1] browsable assets)...
+[2019.05.04-19.55.40:470][452]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Maps/OutOfClassVehicle_NH.OutOfClassVehicle_NH]
+[2019.05.04-19.55.40:470][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/OutOfClassVehicle_NH]
+[2019.05.04-19.55.40:487][452]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/OutOfClassVehicle_NH_Auto7904B27B84B23D8C0B5DB6E978A3B88DB.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/OutOfClassVehicle_NH_Auto7.uasset'
+[2019.05.04-19.55.40:507][452]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/blinn1SG] ([1] browsable assets)...
+[2019.05.04-19.55.40:521][452]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Maps/blinn1SG.blinn1SG]
+[2019.05.04-19.55.40:521][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/blinn1SG]
+[2019.05.04-19.55.40:543][452]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/blinn1SG_Auto748139EEE4627C24C7E30278170AFC1D6.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/blinn1SG_Auto7.uasset'
+[2019.05.04-19.55.40:545][452]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/Seamless_002] ([1] browsable assets)...
+[2019.05.04-19.55.40:553][452]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Maps/Seamless_002.Seamless_002]
+[2019.05.04-19.55.40:553][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Seamless_002]
+[2019.05.04-19.55.40:646][452]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Seamless_002_Auto7DF2A789649E8F2525486D3AF165768A2.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/Seamless_002_Auto7.uasset'
+[2019.05.04-19.55.40:648][452]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/lambert3SG] ([1] browsable assets)...
+[2019.05.04-19.55.40:663][452]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Maps/lambert3SG.lambert3SG]
+[2019.05.04-19.55.40:663][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/lambert3SG]
+[2019.05.04-19.55.40:724][452]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/lambert3SG_Auto7E603238A4003BFDB2AAD1DB3A0A67AA2.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/lambert3SG_Auto7.uasset'
+[2019.05.04-19.55.40:726][452]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/lambert4SG] ([1] browsable assets)...
+[2019.05.04-19.55.40:740][452]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Maps/lambert4SG.lambert4SG]
+[2019.05.04-19.55.40:740][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/lambert4SG]
+[2019.05.04-19.55.40:759][452]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/lambert4SG_Auto7CB4C5A3E4E00FA033EBE34A4315A9341.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/lambert4SG_Auto7.uasset'
+[2019.05.04-19.55.40:760][452]LogFileHelpers: Auto-saving content packages took 0.316
+[2019.05.04-20.05.55:501][960]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/NH_WBBlockWithGeo_Auto8B57A4C5348F243A6F58C4285F9936BAA.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/NH_WBBlockWithGeo_Auto8.umap'
+[2019.05.04-20.05.55:510][960]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NH_WBBlockWithGeo' took 1.091
+[2019.05.04-20.05.55:510][960]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.091
+[2019.05.04-20.13.58:334][584]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.04-20.13.58:939][646]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.04-20.15.22:944][345]LogGeometryMode: Warning: Unable to find BrushMotelWalkway_10 Brush(s) in new BSP
+[2019.05.04-20.15.22:944][345]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.05.04-20.16.27:088][693]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/NH_WBBlockWithGeo_Auto9C82A927C437A1B329EDA438567BEB662.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/NH_WBBlockWithGeo_Auto9.umap'
+[2019.05.04-20.16.27:092][693]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NH_WBBlockWithGeo' took 1.215
+[2019.05.04-20.16.27:092][693]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.215
+[2019.05.04-20.39.45:775][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-20.39.50:278][135]Cmd: TRANSACTION UNDO
+[2019.05.04-20.39.50:278][135]LogEditorTransaction: Undo Move Actors
+[2019.05.04-20.39.50:547][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushStreet_140.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:552][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushStreet_104.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:555][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushGround_84.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:561][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushStreet_157.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:589][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushStreet_29.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:597][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushSidewalk_26.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:599][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushMotel_35.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:600][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushGasStationCover_2.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:601][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushMotelRailing_21.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:602][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushMotel_26.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:606][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushGasStationWindow_7.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:610][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushGasStation_11.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:615][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushGround_177.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:621][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushGround_113.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:624][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushMotelRoof_2.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:625][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushMotel_19.BrushComponent0) Component already registered.
+[2019.05.04-20.39.50:628][135]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/NH_WBBlockWithGeo.NH_WBBlockWithGeo:PersistentLevel.BrushGround_206.BrushComponent0) Component already registered.
+[2019.05.04-20.40.55:727][419]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/NH_WBBlockWithGeo_Auto02C4D82B04FCE9A1B13F080B68E3E3299.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Autosaves/Game/Maps/NH_WBBlockWithGeo_Auto0.umap'
+[2019.05.04-20.40.55:732][419]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NH_WBBlockWithGeo' took 1.213
+[2019.05.04-20.40.55:732][419]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.213
+[2019.05.04-21.13.51:436][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.04-21.13.52:763][300]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/NH_WBBlockWithGeo962DA80A456BB4753768A08AF9389EC6.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/NH_WBBlockWithGeo.umap'
+[2019.05.04-21.13.53:027][300]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/NH_WBBlockWithGeo_BuiltData9F4B99464EF03D7936AB8C894EBD5E26.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/NH_WBBlockWithGeo_BuiltData.uasset'
+[2019.05.05-18.09.23:177][987]LogGeometryMode: Warning: Unable to find BrushGround_51 Brush(s) in new BSP
+[2019.05.05-18.09.23:177][987]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.05.05-18.16.13:556][446]LogGeometryMode: Warning: Unable to find BrushGasStationCover_13 Brush(s) in new BSP
+[2019.05.05-18.16.13:556][446]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.05.05-18.21.06:061][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.21.08:202][304]LogSlate: Window 'Save Content' being destroyed
+[2019.05.05-18.21.08:242][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/blinn1SG" FILE="../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/blinn1SG.uasset" SILENT=true
+[2019.05.05-18.21.08:299][304]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/blinn1SG130B237E466C29A11B7936951D02F10C.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/blinn1SG.uasset'
+[2019.05.05-18.21.08:329][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/lambert2SG" FILE="../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/lambert2SG.uasset" SILENT=true
+[2019.05.05-18.21.08:403][304]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/lambert2SGC6E272ED4C78188A3B2144B4497B9E87.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/lambert2SG.uasset'
+[2019.05.05-18.21.08:425][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/lambert3SG" FILE="../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/lambert3SG.uasset" SILENT=true
+[2019.05.05-18.21.08:441][304]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/lambert3SGFC3C0FD94726AF29200B3D9D9C792F96.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/lambert3SG.uasset'
+[2019.05.05-18.21.08:456][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/lambert4SG" FILE="../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/lambert4SG.uasset" SILENT=true
+[2019.05.05-18.21.08:486][304]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/lambert4SGA75A08FC4C5FB324037584A46A399013.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/lambert4SG.uasset'
+[2019.05.05-18.21.08:500][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NH_MannequinPosed" FILE="../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/NH_MannequinPosed.uasset" SILENT=true
+[2019.05.05-18.21.08:515][304]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/NH_MannequinPosedB6B123BC4DDF5814CEA91683A6978CF4.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/NH_MannequinPosed.uasset'
+[2019.05.05-18.21.08:529][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NH_MannequinTexture" FILE="../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/NH_MannequinTexture.uasset" SILENT=true
+[2019.05.05-18.21.12:951][304]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/NH_MannequinTexture649946F6484C9B80D462E3A4426F443A.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/NH_MannequinTexture.uasset'
+[2019.05.05-18.21.13:031][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NH_PumpTopBlock" FILE="../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/NH_PumpTopBlock.uasset" SILENT=true
+[2019.05.05-18.21.13:053][304]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/NH_PumpTopBlock9046FB494728154D3E0D23A9A4026548.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/NH_PumpTopBlock.uasset'
+[2019.05.05-18.21.13:121][304]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/OutOfClassVehicle_NH7881A0B3444F538CB26BA498A3DDCE48.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/OutOfClassVehicle_NH.uasset'
+[2019.05.05-18.21.13:171][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Seamless_002" FILE="../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/Seamless_002.uasset" SILENT=true
+[2019.05.05-18.21.13:768][304]LogSavePackage: Moving '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Saved/Seamless_0029236758B4F1AD44FC9B730A64C6AE1C8.tmp' to '../../../../../../Users/nhfir/Documents/GitHub/NH_AssetPipeline/NH_WhiteboxInClass/Content/Maps/Seamless_002.uasset'
+[2019.05.05-18.21.14:245][304]LogSlate: Window 'NH_WhiteboxInClass - Unreal Editor' being destroyed
+[2019.05.05-18.21.14:870][305]Cmd: QUIT_EDITOR
+[2019.05.05-18.21.15:429][305]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.05-18.21.15:524][305]LogExit: Preparing to exit.
+[2019.05.05-18.21.16:765][305]LogExit: Editor shut down
+[2019.05.05-18.21.16:767][305]LogExit: Transaction tracking system shut down
+[2019.05.05-18.21.19:368][305]LogExit: Object subsystem successfully closed.
+[2019.05.05-18.21.19:531][305]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.05-18.21.19:564][305]LogD3D11RHI: Shutdown
+[2019.05.05-18.21.19:565][305]LogD3D11RHI: CleanupD3DDevice
+[2019.05.05-18.21.19:637][305]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.05-18.21.20:720][305]LogModuleManager: Shutting down and abandoning module MeshBuilder (614)
+[2019.05.05-18.21.20:720][305]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2019.05.05-18.21.20:720][305]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2019.05.05-18.21.20:720][305]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2019.05.05-18.21.20:749][305]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2019.05.05-18.21.20:749][305]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2019.05.05-18.21.20:749][305]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2019.05.05-18.21.20:763][305]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2019.05.05-18.21.20:773][305]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.05.05-18.21.20:784][305]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.05.05-18.21.20:788][305]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.05.05-18.21.20:816][305]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.05.05-18.21.20:825][305]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.05.05-18.21.20:825][305]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.05.05-18.21.20:825][305]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.05.05-18.21.20:825][305]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.05.05-18.21.20:825][305]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.05.05-18.21.20:825][305]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.05.05-18.21.20:831][305]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.05.05-18.21.20:839][305]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.05.05-18.21.20:839][305]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.05.05-18.21.20:839][305]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.05.05-18.21.20:848][305]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.05.05-18.21.20:848][305]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.05.05-18.21.20:863][305]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.05.05-18.21.20:863][305]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.05.05-18.21.20:864][305]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.05.05-18.21.20:864][305]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.05.05-18.21.20:864][305]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.05.05-18.21.20:881][305]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.05.05-18.21.20:881][305]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.05.05-18.21.20:881][305]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.05.05-18.21.20:881][305]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.05.05-18.21.20:881][305]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.05.05-18.21.20:881][305]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.05.05-18.21.20:881][305]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.05.05-18.21.20:881][305]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.05.05-18.21.20:881][305]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.05.05-18.21.20:881][305]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.05.05-18.21.20:881][305]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.05.05-18.21.20:882][305]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.05.05-18.21.20:882][305]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.05.05-18.21.20:882][305]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.05.05-18.21.20:882][305]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.05.05-18.21.20:882][305]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.05.05-18.21.20:900][305]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.05.05-18.21.20:914][305]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.05.05-18.21.20:926][305]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.05.05-18.21.20:941][305]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.05.05-18.21.20:959][305]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.05.05-18.21.20:960][305]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.05.05-18.21.20:968][305]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.05.05-18.21.20:968][305]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.05.05-18.21.20:968][305]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.05.05-18.21.21:347][305]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.05.05-18.21.21:347][305]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.05.05-18.21.21:348][305]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.05.05-18.21.21:348][305]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.05.05-18.21.21:348][305]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.05.05-18.21.21:357][305]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.05.05-18.21.21:367][305]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.05.05-18.21.21:381][305]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.05.05-18.21.21:387][305]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.05.05-18.21.21:387][305]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.05.05-18.21.21:387][305]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.05.05-18.21.21:394][305]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.05.05-18.21.21:394][305]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.05.05-18.21.21:406][305]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.05.05-18.21.21:406][305]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.05.05-18.21.21:406][305]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.05.05-18.21.21:407][305]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.05.05-18.21.21:416][305]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.05.05-18.21.21:427][305]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.05.05-18.21.21:433][305]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.05.05-18.21.21:444][305]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.05.05-18.21.21:450][305]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.05.05-18.21.21:505][305]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.05.05-18.21.21:518][305]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.05.05-18.21.21:542][305]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.05.05-18.21.21:564][305]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.05.05-18.21.21:565][305]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.05.05-18.21.21:565][305]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.05.05-18.21.21:566][305]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.05.05-18.21.21:587][305]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.05.05-18.21.21:587][305]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.05.05-18.21.21:596][305]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.05.05-18.21.21:616][305]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.05.05-18.21.21:616][305]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.05.05-18.21.21:616][305]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.05.05-18.21.21:617][305]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.05.05-18.21.21:624][305]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.05.05-18.21.21:640][305]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.05.05-18.21.21:641][305]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.05.05-18.21.21:650][305]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.05.05-18.21.21:650][305]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.05.05-18.21.21:650][305]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.05.05-18.21.21:657][305]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.05.05-18.21.21:670][305]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.05.05-18.21.21:670][305]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.05.05-18.21.21:670][305]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.05.05-18.21.21:670][305]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.05.05-18.21.21:670][305]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.05.05-18.21.21:670][305]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.05.05-18.21.21:695][305]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.05.05-18.21.21:696][305]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.05.05-18.21.21:706][305]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.05.05-18.21.21:707][305]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.05.05-18.21.21:707][305]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.05.05-18.21.21:710][305]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.05.05-18.21.21:719][305]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.05.05-18.21.21:719][305]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.05.05-18.21.21:719][305]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.05.05-18.21.21:723][305]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.05.05-18.21.21:723][305]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.05.05-18.21.21:723][305]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.05-18.21.21:732][305]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.05-18.21.21:732][305]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.05-18.21.21:732][305]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.05-18.21.21:732][305]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.05-18.21.21:732][305]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.05-18.21.21:732][305]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.05-18.21.21:732][305]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.05-18.21.21:751][305]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.05.05-18.21.21:751][305]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.05.05-18.21.21:751][305]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.05.05-18.21.21:751][305]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.05.05-18.21.21:776][305]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.05.05-18.21.21:776][305]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.05.05-18.21.21:776][305]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.05.05-18.21.21:776][305]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.05.05-18.21.21:785][305]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.05.05-18.21.21:785][305]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.05-18.21.21:785][305]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.05-18.21.21:785][305]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.05-18.21.21:785][305]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.05-18.21.21:785][305]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.05-18.21.21:785][305]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.05.05-18.21.21:798][305]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.05.05-18.21.21:799][305]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.05-18.21.21:799][305]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.05-18.21.21:802][305]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.05-18.21.21:810][305]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.05-18.21.21:810][305]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.05-18.21.21:817][305]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.05-18.21.21:823][305]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.05-18.21.21:823][305]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.05-18.21.21:824][305]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.05-18.21.21:824][305]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.05-18.21.21:824][305]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.05-18.21.21:830][305]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.05-18.21.21:831][305]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.05-18.21.21:837][305]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.05-18.21.21:872][305]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.05-18.21.21:872][305]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.05.05-18.21.21:872][305]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.05.05-18.21.21:872][305]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.05.05-18.21.21:872][305]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.05.05-18.21.21:896][305]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.05.05-18.21.21:908][305]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.05.05-18.21.21:908][305]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.05.05-18.21.21:908][305]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.05.05-18.21.21:908][305]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.05.05-18.21.21:915][305]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.05.05-18.21.21:915][305]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.05.05-18.21.21:915][305]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.05.05-18.21.21:921][305]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.05-18.21.21:922][305]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.05-18.21.22:022][305]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.05-18.21.22:145][305]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.05-18.21.22:145][305]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.05-18.21.22:153][305]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.05-18.21.22:153][305]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.05-18.21.22:153][305]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.05-18.21.22:153][305]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.05-18.21.22:167][305]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.05-18.21.22:178][305]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.05-18.21.22:185][305]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.05-18.21.22:186][305]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.05-18.21.22:196][305]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.05-18.21.22:202][305]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.05-18.21.22:208][305]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.05-18.21.22:217][305]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.05-18.21.22:217][305]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.05-18.21.22:217][305]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.05-18.21.22:229][305]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.05-18.21.22:238][305]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.05.05-18.21.22:253][305]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.05.05-18.21.22:261][305]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.05.05-18.21.22:261][305]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.05.05-18.21.22:261][305]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.05.05-18.21.22:274][305]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.05.05-18.21.22:274][305]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.05.05-18.21.22:274][305]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.05.05-18.21.22:275][305]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.05.05-18.21.22:281][305]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.05.05-18.21.22:292][305]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.05.05-18.21.22:292][305]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.05.05-18.21.22:311][305]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.05.05-18.21.22:319][305]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.05.05-18.21.22:329][305]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.05.05-18.21.22:329][305]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.05.05-18.21.22:336][305]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.05.05-18.21.22:357][305]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.05.05-18.21.22:468][305]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.05.05-18.21.22:468][305]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.05.05-18.21.22:494][305]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.05.05-18.21.22:494][305]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.05.05-18.21.22:504][305]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.05.05-18.21.22:517][305]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.05.05-18.21.22:518][305]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.05.05-18.21.22:518][305]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.05.05-18.21.22:518][305]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.05.05-18.21.22:518][305]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.05.05-18.21.22:518][305]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.05.05-18.21.22:518][305]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.05.05-18.21.22:518][305]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.05.05-18.21.22:527][305]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.05.05-18.21.22:542][305]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.05.05-18.21.22:542][305]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.05.05-18.21.22:553][305]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.05.05-18.21.22:565][305]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.05.05-18.21.22:565][305]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.05.05-18.21.22:580][305]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.05.05-18.21.22:590][305]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.05.05-18.21.22:594][305]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.05.05-18.21.22:659][305]LogDerivedDataCache: Shutdown
+[2019.05.05-18.21.22:659][305]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.05.05-18.21.22:660][305]LogXGEController: Cleaning working directory: C:/Users/nhfir/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.05-18.21.22:672][305]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.05.05-18.21.22:673][305]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.05.05-18.21.22:686][305]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.05.05-18.21.22:698][305]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.05.05-18.21.22:710][305]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.05.05-18.21.22:710][305]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.05.05-18.21.22:721][305]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.05.05-18.21.22:721][305]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.05.05-18.21.22:721][305]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.05.05-18.21.22:721][305]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.05.05-18.21.22:730][305]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.05.05-18.21.22:730][305]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.05.05-18.21.22:730][305]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.05.05-18.21.22:730][305]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.05.05-18.21.22:730][305]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.05.05-18.21.22:731][305]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.05.05-18.21.22:731][305]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.05.05-18.21.22:731][305]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.05.05-18.21.22:731][305]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.05.05-18.21.22:731][305]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.05.05-18.21.22:742][305]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.05.05-18.21.22:751][305]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.05.05-18.21.22:779][305]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.05.05-18.21.22:779][305]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.05.05-18.21.22:795][305]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.05.05-18.21.22:795][305]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.05.05-18.21.22:862][305]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.05.05-18.21.22:862][305]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.05.05-18.21.22:862][305]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.05.05-18.21.22:863][305]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.05.05-18.21.22:863][305]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.05.05-18.21.22:863][305]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.05.05-18.21.22:863][305]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.05.05-18.21.22:863][305]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.05.05-18.21.22:863][305]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.05.05-18.21.22:863][305]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.05.05-18.21.22:863][305]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.05.05-18.21.22:863][305]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.05.05-18.21.22:863][305]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.05.05-18.21.22:863][305]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.05.05-18.21.22:873][305]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.05.05-18.21.22:873][305]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.05.05-18.21.22:873][305]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.05.05-18.21.22:873][305]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.05.05-18.21.22:901][305]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.05.05-18.21.22:913][305]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.05.05-18.21.22:945][305]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.05.05-18.21.22:953][305]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.05-18.21.22:953][305]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA719BEEE-402C-EBA2-9AB1-57B5E8B26168%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=0f2908e940e587456438a690d29b6b5b%7Cb7acc16359894a0385e15219901d5e7d%7Cf2d424b2-16af-43f0-9293-cf7cfbac4dda&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.05-18.21.22:991][305]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.05.05-18.21.23:022][305]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.05.05-18.21.23:022][305]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.05.05-18.21.23:023][305]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.05.05-18.21.23:023][305]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.05.05-18.21.23:023][305]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.05.05-18.21.23:023][305]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.05.05-18.21.23:023][305]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.05.05-18.21.23:023][305]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.05.05-18.21.23:023][305]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.05.05-18.21.23:025][305]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.05-18.21.23:026][305]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.05.05-18.21.23:033][305]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.05-18.21.23:058][305]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.05-18.21.23:059][305]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.05-18.21.23:072][305]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.05-18.21.23:073][305]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.05-18.21.23:073][305]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.05-18.21.23:073][305]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.05-18.21.23:090][305]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.05-18.21.23:094][305]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.05-18.21.23:094][305]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.05-18.21.23:101][305]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.05-18.21.23:101][305]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.05-18.21.23:101][305]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.05-18.21.23:101][305]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.05-18.21.23:109][305]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.05-18.21.23:109][305]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.05-18.21.23:118][305]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.05-18.21.23:118][305]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.05-18.21.23:150][305]LogExit: Exiting.
+[2019.05.05-18.21.23:195][305]Log file closed, 05/05/19 12:21:23
